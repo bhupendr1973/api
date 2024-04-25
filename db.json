@@ -265,6 +265,14 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-32.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-32.jpg",
       "lyrics": "./lyrics/Brave Shine.txt"
+    },
+    {
+      "id": 33,
+      "name": "Raam Aayenge",
+      "singer": "Swati Mishra",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
+      "lyrics": "./lyrics/Swati"
     }
   ],
   "playLib": [
@@ -498,6 +506,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-32.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-32.jpg",
           "lyrics": "./lyrics/Brave Shine.txt"
+        },
+        {
+          "name": "Raam Aayenge",
+          "singer": "Swati Mishra",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
+          "lyrics": "./lyrics/Swati"
         }
       ]
     },
@@ -549,6 +564,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-31.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-31.jpg",
           "lyrics": "./lyrics/Brave Shine.txt"
+        },
+        {
+         "name": "Raam Aayenge",
+          "singer": "Swati Mishra",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
+          "lyrics": "./lyrics/Swati"
         }
       ]
     },
