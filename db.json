@@ -273,6 +273,38 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
       "lyrics": "./lyrics/Swati"
+    },
+    {
+      "id": 34,
+      "name": "Om Jaya Jag Dis Hare",
+      "singer": "JJubin_Nautiyal",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-34.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-34.jpg",
+      "lyrics": "./lyrics/JJubin"
+    },
+    {
+      "id": 35,
+      "name": "Ghovinda Bolo Chahe Gopala Bolo",
+      "singer": "JJubin_Nautiyal",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-35.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-35.jpg",
+      "lyrics": "./lyrics/JJubin"
+    },
+    {
+      "id": 36,
+      "name": "Hare Ram Hare Krishna",
+      "singer": "JJubin_Nautiyal",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-36.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-36.jpg",
+      "lyrics": "./lyrics/JJubin"
+    },
+    {
+      "id": 37,
+      "name": "Shree Krishna Govinda Here Murare",
+      "singer": "JJubin_Nautiyal",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
+      "lyrics": "./lyrics/JJubin"
     }
   ],
   "playLib": [
@@ -513,6 +545,34 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
           "lyrics": "./lyrics/Swati"
+        },
+        {
+         "name": "Om Jaya Jag Dis Hare",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-34.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-34.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+         "name": "Ghovinda Bolo Chahe Gopala Bolo",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-35.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-35.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+         "name": "Hare Ram Hare Krishna",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-36.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-36.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+          "name": "Shree Krishna Govinda Here Murare",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
+          "lyrics": "./lyrics/JJubin"
         }
       ]
     },
@@ -571,6 +631,34 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
           "lyrics": "./lyrics/Swati"
+        },
+        {
+         "name": "Om Jaya Jag Dis Hare",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-34.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-34.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+         "name": "Ghovinda Bolo Chahe Gopala Bolo",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-35.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-35.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+         "name": "Hare Ram Hare Krishna",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-36.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-36.jpg",
+          "lyrics": "./lyrics/JJubin"
+        },
+        {
+          "name": "Shree Krishna Govinda Here Murare",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
+          "lyrics": "./lyrics/JJubin"
         }
       ]
     },
