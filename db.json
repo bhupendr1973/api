@@ -305,6 +305,15 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
       "lyrics": "./lyrics/37.txt"
+    },
+    {
+      "id": 38,
+      "name": "O Paalanhaare",
+      "singer": "Lata & Udit Narayan",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
+      "lyrics": "./lyrics/38.txt"
+      
     }
   ],
   "playLib": [
@@ -573,6 +582,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
           "lyrics": "./lyrics/37.txt"
+        },
+        {
+          "name": "O Paalanhaare",
+          "singer": "Lata & Udit Narayan",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
+          "lyrics": "./lyrics/38.txt"
         }
       ]
     },
@@ -659,6 +675,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-37.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-37.jpg",
           "lyrics": "./lyrics/37.txt"
+        },
+        {
+          "name": "O Paalanhaare",
+          "singer": "Lata & Udit Narayan",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
+          "lyrics": "./lyrics/38.txt"
         }
       ]
     },
