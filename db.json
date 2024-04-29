@@ -313,6 +313,14 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
       "lyrics": "./lyrics/38.txt"
+    },
+    {
+      "id": 39,
+      "name": "Teri Bindiya Re",
+      "singer": "Sairam Iyer",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-39.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
+      "lyrics": "./lyrics/39.txt"
       
     }
   ],
@@ -589,6 +597,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
           "lyrics": "./lyrics/38.txt"
+        },
+        {
+          "name": "Teri Bindiya Re",
+          "singer": "Sairam Iyer",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-39.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
+          "lyrics": "./lyrics/39.txt"
         }
       ]
     },
@@ -790,6 +805,13 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-32.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-32.jpg",
           "lyrics": "./lyrics/32.txt"
+        },
+        {
+          "name": "Teri Bindiya Re",
+          "singer": "Sairam Iyer",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-39.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
+          "lyrics": "./lyrics/39.txt"
         }
       ],
       "id": 6
