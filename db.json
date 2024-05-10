@@ -321,7 +321,30 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-39.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
       "lyrics": "./lyrics/39.txt"
-      
+    },
+    {
+      "id": 40,
+      "name": "Main Jis Din Bhula Doon Tera Pyar",
+      "singer": "Lata Mangeshkar, Amit Kumar ",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-40.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-40.jpg",
+      "lyrics": "./lyrics/40.txt"
+    },
+    {
+      "id": 41,
+      "name": "TERE BINA ZINDAGI SE",
+      "singer": "LATA MANGESHKAR, KISHORE KUMAR",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
+      "lyrics": "./lyrics/40.txt"
+    },
+    {
+      "id": 42,
+      "name": "Gao Gao Gate Jao ",
+      "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
+      "lyrics": "./lyrics/40.txt"
     }
   ],
   "playLib": [
@@ -564,21 +587,21 @@
           "lyrics": "./lyrics/33.txt"
         },
         {
-         "name": "Om Jaya Jag Dis Hare",
+          "name": "Om Jaya Jag Dis Hare",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-34.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-34.jpg",
           "lyrics": "./lyrics/34.txt"
         },
         {
-         "name": "Ghovinda Bolo Chahe Gopala Bolo",
+          "name": "Ghovinda Bolo Chahe Gopala Bolo",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-35.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-35.jpg",
           "lyrics": "./lyrics/35.txt"
         },
         {
-         "name": "Hare Ram Hare Krishna",
+          "name": "Hare Ram Hare Krishna",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-36.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-36.jpg",
@@ -604,6 +627,27 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-39.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
           "lyrics": "./lyrics/39.txt"
+        },
+        {
+          "name": "Main Jis Din Bhula Doon Tera Pyar",
+          "singer": "Lata Mangeshkar, Amit Kumar ",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-40.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-40.jpg",
+          "lyrics": "./lyrics/40.txt"
+        },
+        {
+          "name": "TERE BINA ZINDAGI SE",
+          "singer": "LATA MANGESHKAR, KISHORE KUMAR",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
+          "lyrics": "./lyrics/40.txt"
+        },
+        {
+          "name": "Gao Gao Gate Jao ",
+          "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
+          "lyrics": "./lyrics/40.txt"
         }
       ]
     },
@@ -657,28 +701,28 @@
           "lyrics": "./lyrics/31.txt"
         },
         {
-         "name": "Raam Aayenge",
+          "name": "Raam Aayenge",
           "singer": "Swati Mishra",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-33.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-33.jpg",
           "lyrics": "./lyrics/33.txt"
         },
         {
-         "name": "Om Jaya Jag Dis Hare",
+          "name": "Om Jaya Jag Dis Hare",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-34.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-34.jpg",
           "lyrics": "./lyrics/34.txt"
         },
         {
-         "name": "Ghovinda Bolo Chahe Gopala Bolo",
+          "name": "Ghovinda Bolo Chahe Gopala Bolo",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-35.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-35.jpg",
           "lyrics": "./lyrics/35.txt"
         },
         {
-         "name": "Hare Ram Hare Krishna",
+          "name": "Hare Ram Hare Krishna",
           "singer": "JJubin_Nautiyal",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-36.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-36.jpg",
@@ -813,8 +857,37 @@
           "image": "https://shrayesh1234.github.io/myaudio/images/music-39.jpg",
           "lyrics": "./lyrics/39.txt"
         }
+      ]
+    },
+    {
+      "userId": 1,
+      "name": "Lata",
+      "image": "https://shrayesh1234.github.io/myaudio/images/music-40.jpg",
+      "removeAble": true,
+      "songs": [
+        {
+          "name": "Main Jis Din Bhula Doon Tera Pyar",
+          "singer": "Lata Mangeshkar, Amit Kumar ",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-40.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-40.jpg",
+          "lyrics": "./lyrics/40.txt"
+        },
+        {
+          "name": "TERE BINA ZINDAGI SE",
+          "singer": "LATA MANGESHKAR, KISHORE KUMAR",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
+          "lyrics": "./lyrics/40.txt"
+        },
+        {
+          "name": "Gao Gao Gate Jao ",
+          "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
+          "lyrics": "./lyrics/40.txt"        }
       ],
       "id": 6
     }
   ]
 }
+
