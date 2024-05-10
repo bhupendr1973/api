@@ -336,7 +336,7 @@
       "singer": "LATA MANGESHKAR, KISHORE KUMAR",
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
-      "lyrics": "./lyrics/40.txt"
+      "lyrics": "./lyrics/41.txt"
     },
     {
       "id": 42,
@@ -344,7 +344,7 @@
       "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
-      "lyrics": "./lyrics/40.txt"
+      "lyrics": "./lyrics/42.txt"
     }
   ],
   "playLib": [
@@ -640,14 +640,14 @@
           "singer": "LATA MANGESHKAR, KISHORE KUMAR",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
-          "lyrics": "./lyrics/40.txt"
+          "lyrics": "./lyrics/41.txt"
         },
         {
           "name": "Gao Gao Gate Jao ",
           "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
-          "lyrics": "./lyrics/40.txt"
+          "lyrics": "./lyrics/42.txt"
         }
       ]
     },
@@ -877,14 +877,14 @@
           "singer": "LATA MANGESHKAR, KISHORE KUMAR",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-41.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-41.jpg",
-          "lyrics": "./lyrics/40.txt"
+          "lyrics": "./lyrics/41.txt"
         },
         {
           "name": "Gao Gao Gate Jao ",
           "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
-          "lyrics": "./lyrics/40.txt"        }
+          "lyrics": "./lyrics/42.txt"        }
       ],
       "id": 6
     }
