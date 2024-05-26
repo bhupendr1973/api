@@ -345,6 +345,83 @@
       "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
       "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
       "lyrics": "./lyrics/42.txt"
+    },
+    {
+      "id": 43,
+      "name": "Mile Tum se juda ho ke",
+      "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-43.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 44,
+      "name": "O yaara ",
+      "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-44.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 45,
+      "name": "Rim jhim Rim Jhim ",
+      "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-45.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 46,
+      "name": "Lagi Aaj Sawan Ki Phir Wo Jhadi Hai ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-46.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 47,
+      "name": "Meri Kismat Mein Tu Nahin Shayad ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-47.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 48,
+      "name": "Om Gan Ganpataye Namo ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-48.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 49,
+      "name": "Seene Mein Jalan ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-49.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 50,
+      "name": "Tumse Milke ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-50.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 51,
+      "name": "और इस दिल में क्या रखा है ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-51.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 52,
+      "name": "मोहब्बत है क्या चीज़ ",
+      "singer": "Suresh Wadkar",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-52.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+    },
+    {
+      "id": 53,
+      "name": "Preem Prabhu ka Barsa raha hai ",
+      "singer": "JJubin_Nautiyal",
+      "path": "https://shrayesh1234.github.io/myaudio/Songs/music-53.mp3",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
     }
   ],
   "playLib": [
@@ -648,6 +725,72 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
           "lyrics": "./lyrics/42.txt"
+        },
+        {
+          "name": "Mile Tum se juda ho ke",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-43.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "O yaara ",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-44.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Rim jhim Rim Jhim ",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-45.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Lagi Aaj Sawan Ki Phir Wo Jhadi Hai ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-46.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Meri Kismat Mein Tu Nahin Shayad ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-47.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Om Gan Ganpataye Namo ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-48.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Seene Mein Jalan ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-49.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Tumse Milke ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-50.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "और इस दिल में क्या रखा है ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-51.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "मोहब्बत है क्या चीज़ ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-52.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Preem Prabhu ka Barsa raha hai ",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-53.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
         }
       ]
     },
@@ -741,6 +884,18 @@
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-38.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-38.jpg",
           "lyrics": "./lyrics/38.txt"
+        },
+        {
+          "name": "Preem Prabhu ka Barsa raha hai ",
+          "singer": "JJubin_Nautiyal",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-53.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Om Gan Ganpataye Namo ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-48.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
         }
       ]
     },
@@ -884,10 +1039,86 @@
           "singer": "Suresh Wadkar, Kavita Krishnamurthy, Udit Narayan",
           "path": "https://shrayesh1234.github.io/myaudio/Songs/music-42.mp3",
           "image": "https://shrayesh1234.github.io/myaudio/images/music-42.jpg",
-          "lyrics": "./lyrics/42.txt"        }
+          "lyrics": "./lyrics/42.txt"
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "name": "Suresh Wadkar",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png",
+      "removeAble": true,
+      "songs": [
+        {
+          "name": "Lagi Aaj Sawan Ki Phir Wo Jhadi Hai ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-46.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Meri Kismat Mein Tu Nahin Shayad ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-47.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Om Gan Ganpataye Namo ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-48.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Seene Mein Jalan ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-49.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Tumse Milke ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-50.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "और इस दिल में क्या रखा है ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-51.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "मोहब्बत है क्या चीज़ ",
+          "singer": "Suresh Wadkar",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-52.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "name": "Kumar Sanu",
+      "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png",
+      "removeAble": true,
+      "songs": [
+        {
+          "name": "Mile Tum se juda ho ke",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-43.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "O yaara ",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-44.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        },
+        {
+          "name": "Rim jhim Rim Jhim ",
+          "singer": "Kumar Sanu & Kabita Krishnamurtiya",
+          "path": "https://shrayesh1234.github.io/myaudio/Songs/music-45.mp3",
+          "image": "https://shrayesh1234.github.io/myaudio/images/unknown_track.png"
+        }
       ],
       "id": 6
     }
   ]
 }
-
